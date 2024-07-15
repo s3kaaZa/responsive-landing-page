@@ -532,6 +532,9 @@ footer {
 
     .employees {
         & .employee {
+            min-height: 290px;
+            padding: 24px;
+            
             .employee-photo {
                 display: none;
             }
